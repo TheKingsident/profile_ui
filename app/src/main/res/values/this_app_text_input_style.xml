@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="text_input_style">
+        android:textColorHint="@color/white"
+        android:background="@color/black"
+        android:textColor="@color/white"
+        android:textSize="14dp"
+
+    </style>
+</resources>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="fields_hint">Tap the fields to edit</string>
+    <string name="profile_pic_text">profile_pic</string>
+    <string name="profile_banner_pic">profile_banner</string>
+    <string name="decentcakemurderer">DecentCakeMurderer</string>
+    <string name="_0">0</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="artist_name"><strong>Artist Name:</strong><font size="14" /></string>
+    <string name="user_handle">User Handle:<font size="14" /></string>
+    <string name="label">Label:<font size="14" /></string>
+    <string name="hometown">Hometown:<font size="14">
+</font></string>
+    <string name="website">Website:<font size="14" /></string>
+    <string name="bio">Bio<font size="14" /></string>
+    <string name="twitter">Twitter:</string>
+    <string name="connect_your_twitter_account">Connect your twitter account</string>
+    <string name="add_twitter_icon">Add Twitter Icon</string>
+    <string name="instagram">Instagram:</string>
+    <string name="add_instagram_icon">Add Instagram Icon</string>
+    <string name="connect_your_instagram_account">Connect your instagram account</string>
+    <string name="facebook">Facebook:</string>
+    <string name="add_facebook_icon">Add Facebook Icon</string>
+    <string name="youtube">Youtube:</string>
+    <string name="add_youtube_icon">Add Youtube Icon</string>
+</resources>
